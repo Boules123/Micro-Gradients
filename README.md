@@ -171,5 +171,4 @@ Contributions are welcome.
 
 ## License
 
-No license file is currently included.
-If you plan to share or reuse this code broadly, add a license (for example, MIT) to clarify usage rights.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
